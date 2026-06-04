@@ -1,4 +1,8 @@
-# PaperSmith
+<p align="center">
+  <img src="PaperSmith.png" alt="PaperSmith logo" width="180">
+</p>
+
+<h1 align="center">PaperSmith</h1>
 
 <p>
   <a href="README.md"><img src="https://img.shields.io/badge/CN-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%20%E9%BB%98%E8%AE%A4%E6%BA%90-8250df?style=flat-square&labelColor=343a40" alt="简体中文 默认源"></a>
@@ -6,8 +10,6 @@
 </p>
 
 PaperSmith 是课题组内部 beta 版论文写作工作流包。你可以把它理解成：一个论文项目模板 + Codex 写作规则 + 一组论文写作 skills，用来帮助你按步骤整理、写作、审阅和修改论文。
-
-它不是自动写论文机器，不是 copaper.ai webapp，不依赖 copaper-opencode 插件，也不需要 `/copaper`、`/copaper-doctor`、`copaper_*` 工具或 OpenCode 的隐藏状态。所有重要信息都保存在每个论文项目里的 Markdown 文件中。
 
 ## 第一次使用
 

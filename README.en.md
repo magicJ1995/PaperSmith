@@ -1,4 +1,8 @@
-# PaperSmith
+<p align="center">
+  <img src="PaperSmith.png" alt="PaperSmith logo" width="180">
+</p>
+
+<h1 align="center">PaperSmith</h1>
 
 <p>
   <a href="README.md"><img src="https://img.shields.io/badge/CN-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%20%E9%BB%98%E8%AE%A4%E6%BA%90-8250df?style=flat-square&labelColor=343a40" alt="简体中文 默认源"></a>
@@ -6,8 +10,6 @@
 </p>
 
 PaperSmith is the lab's internal beta workflow kit for paper writing with Codex. You can think of it as a paper-project template plus Codex writing rules plus a set of paper-writing skills. It helps lab members organize, draft, review, and revise papers step by step.
-
-It is not an automatic paper-writing machine, not the copaper.ai webapp, not the copaper-opencode plugin, and not an OpenCode command package. It does not require `/copaper`, `/copaper-doctor`, `copaper_*` tools, or hidden OpenCode plugin state. All durable state lives in Markdown files inside each paper project.
 
 ### First-Time Use
 
