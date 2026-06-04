@@ -1,6 +1,9 @@
 # PaperSmith
 
-[中文](#中文) | [English](#english)
+<p>
+  <a href="#english"><img src="https://img.shields.io/badge/US-English%20Default%20Source-111111?style=flat-square&labelColor=343a40" alt="English Default Source"></a>
+  <a href="#中文"><img src="https://img.shields.io/badge/CN-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%20%E6%9F%A5%E7%9C%8B-8250df?style=flat-square&labelColor=343a40" alt="简体中文 查看"></a>
+</p>
 
 ---
 
