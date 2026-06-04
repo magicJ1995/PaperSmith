@@ -8,8 +8,6 @@
 
 PaperSmith 是课题组内部 beta 版论文写作工作流包。你可以把它理解成：一个论文项目模板 + Codex 写作规则 + 一组论文写作 skills，用来帮助你按步骤整理、写作、审阅和修改论文。
 
-它不是自动写论文机器，不是 copaper.ai webapp，不依赖 copaper-opencode 插件，也不需要 `/copaper`、`/copaper-doctor`、`copaper_*` 工具或 OpenCode 的隐藏状态。所有重要信息都保存在每个论文项目里的 Markdown 文件中。
-
 ## 第一次使用
 
 第一次使用请先看：
